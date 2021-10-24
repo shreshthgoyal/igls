@@ -15,6 +15,7 @@ This tool is published on PyPi [here](https://pypi.org/project/igls/1.0.0/#files
 ### Dependencies
 
 * All the external dependencies exception Python3 are listed in *requirements.txt* [here](https://github.com/shreshthgoyal/igls/blob/main/requirements.txt).
+* Intallation of Chrome Browser is also required.
 
 ### Installing
 
