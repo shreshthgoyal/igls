@@ -38,7 +38,7 @@ igls -h
 
 ### Help
 
-As Instagram may blocks IP address of an account if user spams logging in continuously it is advised to use the alternate account which is provided for public pages or user should make an alternate account if they want to scrape a private page.
+As Instagram may block IP address of an account if user spams logging in continuously it is advised to use the alternate account which is provided for public pages or user should make an alternate account if they want to scrape a private page.
 
 
 ## License
