@@ -22,7 +22,7 @@ This tool is published on PyPi [here](https://pypi.org/project/igls/1.0.0/#files
 * To setup a basic environment to run this tool locally either user can install package from PyPi and continue.<br>
   ``
   pip install igls==1.0.0
-  ``
+  ``<br>
   and then user needs to install required modules.
   
 * Also, user can clone this repository and build in manually
