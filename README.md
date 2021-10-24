@@ -23,6 +23,8 @@ This tool is published on PyPi [here](https://pypi.org/project/igls/1.0.0/#files
   ``
   pip install igls==1.0.0
   ``
+  and then user needs to install required modules.
+  
 * Also, user can clone this repository and build in manually
 ```console
 git clone https://github.com/shreshthgoyal/igls.git
