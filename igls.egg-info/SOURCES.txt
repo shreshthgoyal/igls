@@ -1,0 +1,9 @@
+setup.py
+igls/__init__.py
+igls/main.py
+igls.egg-info/PKG-INFO
+igls.egg-info/SOURCES.txt
+igls.egg-info/dependency_links.txt
+igls.egg-info/entry_points.txt
+igls.egg-info/not-zip-safe
+igls.egg-info/top_level.txt

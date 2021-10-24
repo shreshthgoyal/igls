@@ -1,0 +1,5 @@
+argparse
+webdriver_manager.chrome
+pandas
+bs4
+selenium

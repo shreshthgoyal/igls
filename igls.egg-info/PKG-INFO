@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: igls
+Version: 1.0.0
+Summary: Instagram Likes Web Scraper.
+Home-page: https://github.com/shreshthgoyal/igls
+Author: Shreshth Goyal
+Author-email: shreshthg30@gmail.com
+License: MIT
+Description: Sample Instagram Like Scapper.      Scrapes likes all of the posts for a particular page and filters posts according to a specific tag in their caption and scrapes all the likes.
+Keywords: instagram web-scrapper python selenium igls shreshth
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
